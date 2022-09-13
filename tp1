@@ -1,2 +1,2 @@
-chaine = ""
-print(len(chaine.split(" ")))
+chaine = "hello world" #inscrit le groupe de mots à compter entre les guillmets
+print(len(chaine.split(" "))) #affichage du nombre de mots contenu dans le groupe inscrit à la ligne 1
