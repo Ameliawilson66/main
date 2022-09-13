@@ -1,2 +1,2 @@
-chaine = "hello world" #inscrit le groupe de mots à compter entre les guillmets
-print(len(chaine.split(" "))) #affichage du nombre de mots contenu dans le groupe inscrit à la ligne 1
+chaine = input("inscrivez votre texte: ") #la demande d'inscrire le groupe de mots à compter est donnée par l'ordinateur
+count_word = print("nombre de mots: " + str(len(chaine.split(" ")))) #affichage du nombre de mots contenu dans le groupe inscrit à la ligne 1
