@@ -1,1 +1,2 @@
-
+chaine = ""
+print(len(chaine.split(" ")))
